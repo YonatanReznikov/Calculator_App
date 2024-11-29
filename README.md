@@ -18,7 +18,7 @@ This project is a basic calculator application developed as part of an assignmen
 
 ### **Screenshots**
 
-![Screenshot_20241129_104544_First Project (1)](https://github.com/user-attachments/assets/3b197223-01d1-444b-a102-c2f779ead401)
+![Screenshot_20241129_104544_First Project](https://github.com/user-attachments/assets/ecf18031-994e-4596-9d6d-bb67140a0060)
 
 
 
