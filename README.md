@@ -1,7 +1,7 @@
 # Android Calculator App 🧮
 
 ### **Project Description**
-This project is a basic calculator application developed as part of an assignment for an Android development course. The app allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division, as well as advanced functions like squaring and calculating square roots.
+This project is a basic calculator application developed as part of an assignment for an Android development course.  The app performs basic arithmetic operations, including addition, subtraction, multiplication, and division, and includes additional functionalities such as squaring and square root operations. It is designed with an intuitive interface to enhance the user experience.
 
 ---
 
@@ -11,15 +11,17 @@ This project is a basic calculator application developed as part of an assignmen
   - Squaring a number (`x²`).
   - Calculating the square root (`√x`).
 - **Error Handling**: Displays error messages for invalid inputs (e.g., division by zero or invalid syntax).
+- **Undo Last Entry**: Remove the last digit or operator entered.
 - **History Support**: Provides quick access to the last calculated result.
+- **Use of Last Result**: Quickly reuse the last calculated result for further operations.
 - **Clean Interface**: A user-friendly design with responsive buttons and clear text.
+- **Exit Functionality**: Close the app gracefully.
 
 ---
 
 ### **Screenshots**
 
-![Screenshot_20241129_104522_First Project](https://github.com/user-attachments/assets/49dee3f8-2672-4f32-aece-3faf1c3d4734)
-![Screenshot_20241129_104544_First Project](https://github.com/user-attachments/assets/afbb21bc-df7a-4e90-8e77-1815f6bac45b)
+![Screenshot_20241129_161406_First Project](https://github.com/user-attachments/assets/0ccb7d7a-3ceb-4940-ab5d-16a3c45c257f)![Screenshot_20241129_161418_First Project](https://github.com/user-attachments/assets/07687a26-3b08-465f-b4ac-c1e67d2e9a43)
 
 ---
 
