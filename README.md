@@ -39,11 +39,6 @@ This project is a basic calculator application developed as part of an assignmen
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
 ## Contact
 
 For any inquiries, suggestions, or feedback, please contact:
